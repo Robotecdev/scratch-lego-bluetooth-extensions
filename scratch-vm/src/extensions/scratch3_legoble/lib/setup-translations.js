@@ -9,7 +9,7 @@ const setupTranslations = function (formatMessage, extTranslations = {}) {
             'legobluetooth.motorGoDirectionToPosition': 'מנוע [PORT] לך [DIRECTION] למיקום [POSITION]',
             'legobluetooth.motorStart': 'הפעל מנוע [PORT] בכיוון [DIRECTION]',
             'legobluetooth.motorSetSpeed': 'הפעל מנוע [PORT] מהירות [SPEED]',
-            'legobluetooth.getRelativePosition': 'מנוע [PORT] מדוד מעלות',
+            'legobluetooth.getRelativePosition': 'מנוע [PORT] מדוד מעלות באופן יחסי',
             'legobluetooth.getPosition': 'מנוע [PORT] מדוד מעלות',
             'legobluetooth.motorResetRelativePosition': 'אפס מעלות מנוע [PORT] ל- [RELATIVE_POSITION]',
 
@@ -17,8 +17,8 @@ const setupTranslations = function (formatMessage, extTranslations = {}) {
             'legobluetooth.displayImage': 'הפעל [MATRIX]',
             'legobluetooth.displayText': 'כתוב [TEXT]',
             'legobluetooth.displayClear': 'כבה פיקסלים',
-            'legobluetooth.displaySetBrightness': 'הגדר בהירות פיקסלים [BRIGHTNESS]',
-            'legobluetooth.displaySetPixel': 'הגדר בהירות פיקסלים במיקום [X] , [Y] ל- [BRIGHTNESS]',
+            'legobluetooth.displaySetBrightness': 'הגדר בהירות פיקסלים [BRIGHTNESS]%',
+            'legobluetooth.displaySetPixel': 'הגדר בהירות פיקסלים במיקום [X] , [Y] ל- [BRIGHTNESS]%',
             'legobluetooth.centerButtonLights': 'הגדר צבע לנורה בכפתור ל- [COLOR]',
             'legobluetooth.ultrasonicLightUp': 'הדלק אור בכניסה [PORT] בערכים [LIGHT0] [LIGHT1] [LIGHT2] [LIGHT3]',
 
