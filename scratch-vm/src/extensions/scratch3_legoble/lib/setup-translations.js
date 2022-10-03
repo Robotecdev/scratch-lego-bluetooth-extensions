@@ -17,12 +17,13 @@ const setupTranslations = function (formatMessage, extTranslations = {}) {
             'legobluetooth.displayImage': 'הפעל [MATRIX]',
             'legobluetooth.displayText': 'כתוב [TEXT]',
             'legobluetooth.displayClear': 'כבה פיקסלים',
-            'legobluetooth.displaySetBrightness': 'הגדר בהירות פיקסלים %[BRIGHTNESS]',
-            'legobluetooth.displaySetPixel': 'הגדר בהירות פיקסלים במיקום [X] , [Y] ל- %[BRIGHTNESS]',
+            'legobluetooth.displaySetBrightness': 'הגדר בהירות פיקסלים [BRIGHTNESS]',
+            'legobluetooth.displaySetPixel': 'הגדר בהירות פיקסלים במיקום [X] , [Y] ל- [BRIGHTNESS]',
             'legobluetooth.centerButtonLights': 'הגדר צבע לנורה בכפתור ל- [COLOR]',
             'legobluetooth.ultrasonicLightUp': 'הדלק אור בכניסה [PORT] בערכים [LIGHT0] [LIGHT1] [LIGHT2] [LIGHT3]',
 
             'legobluetooth.getColor': '[PORT] צבע',
+
             'legobluetooth.getDistance': '[PORT] מרחק',
             'legobluetooth.getForce': '[PORT] מהירות',
             'legobluetooth.getTilt': '[PORT] הגדר ציר סיבוב [XY]',
